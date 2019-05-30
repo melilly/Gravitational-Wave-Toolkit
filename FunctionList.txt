@@ -1,0 +1,80 @@
+Function list   Press Ctrl + F on Windows, Linux or Command + F on Mac to search for the function you need
+
+abs(x) - returns the absolute value of a 
+
+acos(x) - returns angle in radians for inverse cosine
+
+asin(x) - returns angle in radians for inverse sine 
+
+atan(x)
+
+ceil(x) - rounds x upwards to the nearest integer 
+
+cos(x) - returns cos of x (x is in radians)
+
+degrees(x)  - converts radians to degrees
+
+e - must import math library to use 
+
+exp(x) - returns the exponential function of x (e^x)
+
+fabs(x)  - returns the absolute value of x as a decimal
+
+factorial(x)
+
+floor(x) - rounds x downward to the nearest integer 
+
+len('x') - returns length of string, beginning at zero
+
+log(x) - returns the natural log of x
+
+log(x, base)  - returns  the log of x for base 
+
+max(a,b,c,....) - returns the largest number 
+
+min(a,b,c…..) - returns the smallest number 
+
+pi - must import math library to use
+
+pow(a,b)  - Returns a^b 
+(also same as a ** b)
+
+radians(x) - converts degrees to radians
+
+random.randint(a,b) - produces a random number between a and b. Make sure to import the random library at the beginning of your block to have access. 
+
+round(a, b) - returns a decimal value rounded to b digits after decimal point 
+
+sin(x) - returns sin of x (x is in radians)
+
+sqrt(x) - returns square root of x 
+
+tan(x)  - returns tangent of x  
+
+
+Syntax List 
+
++                add two integers, floats, or strings
+-                subtract two integers or floats
+**               be able to raise an integer or float to another (3 ** 2 = 9)
+not              used in if/else or loops. If x == 2 not 3..... (skips over three into another case)
+/                divides two integers                              ( 12 / 6 = 2)
+//               division with floats (decimal places)
+%   (modulus)    divides two integers and returns the remainder  (12 / 9  returns 3 as the remainder)
+and              used in loops and if/else.   If z == 2 and x == 4 : ......... 
+or               same as and 
+
+<                less than
+<=               less than or equal to 
+>                more than
+>=               more than or equal to
+==               equal to
+!=               not equal to
+
+=                assigns a value.  x = 2
++=               adds the right side to the left and reassigns the value to left. a += b is the same as a = a + b
+-=               same as above but subtraction
+*=               same as above but multipication
+/=               same as above but division
+//=              same as above but float division
+%=               
