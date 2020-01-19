@@ -2,6 +2,9 @@
 
 This set of Jupyter notebooks introduces the basics of Python and gravitational waves from LIGO data. Originally created for PHYS2500 students at Utah State University.
 
+## Request for Feedback!!
+If you use any portion of this toolkit for yourself or your students, we want to hear how it goes! We're collecting data on its effectuality and we want suggestions on how to improve it. If you can help us out, fill out the [anonymous survey here](https://docs.google.com/forms/d/1HVrzygFNRRJpJp-U4EpRkj8NICsWb0UsNpZt86yBuGQ/edit?usp=sharing). Thank you!
+
 ## Getting Started
 
 #### Importing to Azure
