@@ -18,3 +18,6 @@ If you use any portion of this toolkit for yourself or your students, we want to
 The main files are labelled "#\_Title". Start with 1 and proceed through to 4. Sections 2, 3, and 4 depend on Section 1 OR prior knowledge of Python. Section 4 is more easily understood in the context of the information in Section 3. 
 
 As you work through the notebooks, you will sometimes be referred to the other files in the repository. FunctionList.txt may be used as a reference to commonly used libraries and functions.
+
+## Answers
+Contact erin.nicole.odonnell@gmail.com if you want the answer key.
